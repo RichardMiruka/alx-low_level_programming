@@ -3,7 +3,7 @@
 /**
  *main - the containing function
  *
- *Return 0 if successful or 1 if failed
+ *Return 0 if successful
  */
 int main(void)
 {
