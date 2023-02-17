@@ -1,9 +1,10 @@
 #include <stdio.h>
 
-/* 
-   This program demonstrates the use of the puts() function to print a string to the console. 
-   The main() function does not take any arguments and returns an integer value. 
-*/
+/**
+ *This program demonstrates the use of the puts() function
+ *
+ *The main() function does not take any arguments
+ */
 
 int main(void)
 {
