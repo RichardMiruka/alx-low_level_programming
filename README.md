@@ -6,7 +6,7 @@ This repository contains programs written for the low-level programming track at
 
 <h2>Author:</h2>
 
-Richard Miruka Onsare <RichardMiruka>
+[Richard Miruka Onsare](https://github.com/RichardMiruka) <RichardMiruka>
 
 <h3>Acknowledgements 🌍:</h3>
 
