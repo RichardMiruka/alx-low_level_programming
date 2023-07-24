@@ -1,5 +1,11 @@
-When and why using linked lists vs arrays
+<h1>ALX_LOW-LEVEL_PROGRAMMING</h1>
 
+<h2>C Programming-Language</h2>
 
-How to build and use linked lists
+This repository contains programs written for the low-level programming track at ALX Africa. I am currently learning C.
+
+Author :
+Richard Miruka Onsare <RichardMiruka>
+Acknowledgements 🌍:
+All work contained in this project was completed as part of the curriculum for ALX Africa SE. ALX Africa is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit this link
 
