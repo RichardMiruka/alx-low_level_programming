@@ -8,7 +8,7 @@
 
 * How to build and use linked lists
 
-# Reaources
+# Resources
 
 [Linked Lists](https://intranet.alxswe.com/rltoken/joxg32-tt4lUh8Afgst8tA)
 
