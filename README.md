@@ -2,7 +2,8 @@
 
 <h2>C Programming-Language</h2>
 
-This repository contains programs written for the low-level programming track at ALX Africa. I am currently learning C.
+This repository contains programs written for the low-level programming track at ALX Africa(Holberton School).
+I am currently learning C.
 
 <h2>Author:</h2>
 
