@@ -1,3 +1,3 @@
 # C - Hash tables
 
-## C   Algorithm  Data structure
+## C                              Algorithm                             Data structure
