@@ -9,7 +9,7 @@
 * [Hash table](https://intranet.alxswe.com/rltoken/mxjKpEfAw3E5B8S3inPuHQ)
 * [All about hash tables](https://intranet.alxswe.com/rltoken/3RwwAqmpGJpMiBa7BE9fAQ)
 * [why hash tables and not arrays](https://intranet.alxswe.com/rltoken/OgO7uga3PIaCTMtTzYCY3g)
-* [how dictionaries are implemented in Python 2.7]
+* [how dictionaries are implemented in Python 2.7](https://intranet.alxswe.com/rltoken/hKhDFfKKcxdM9U8GZVPOHQ)
 
 ## Learning Objectives
 * What is a hash function
