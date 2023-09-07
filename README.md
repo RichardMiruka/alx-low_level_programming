@@ -4,6 +4,7 @@
 
 This repository contains programs written for the low-level programming track at ALX Africa(Holberton School).
 I am currently learning C.
+![C logo](https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png)
 
 <h2>Author:</h2>
 
