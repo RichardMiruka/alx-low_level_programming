@@ -10,3 +10,5 @@
 * What is a linear search
 * What is a binary search
 * What is the best search algorithm to use depending on your needs
+
+[Linear search algorithm](https://intranet.alxswe.com/rltoken/17RKhbmvh_u4ebCwaSxCxg)
