@@ -1,6 +1,7 @@
 # C - Search Algorithms
 
 # Resources
+
 * [Search algorithm](https://intranet.alxswe.com/rltoken/ap2kuRv8qrUMyQ0-MY3EXw)
 * [Space complexity (1)](https://intranet.alxswe.com/rltoken/QK9ENdoTyqGs0d4_M3XE3g)
 
